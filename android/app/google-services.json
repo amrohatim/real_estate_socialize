@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349346346668",
+    "project_id": "mageauth-320b1",
+    "storage_bucket": "mageauth-320b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349346346668:android:f67671f2539b63a4915109",
+        "android_client_info": {
+          "package_name": "com.Magellan.global"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349346346668-qpb998pg9pkf1lberjg8hdg207mbcvs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Magellan.global",
+            "certificate_hash": "6b021067736808cccc534de74ca6e3743bf55342"
+          }
+        },
+        {
+          "client_id": "349346346668-aehsc3rkstepl2amgonpbj728acges7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCjvloSEsL7_JG54zOmTyqfMw4asfnHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349346346668-aehsc3rkstepl2amgonpbj728acges7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
